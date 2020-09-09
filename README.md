@@ -1,4 +1,4 @@
-A basic trickshotting mod "menu" for T6 to rip code from
+A basic trickshotting mod "menu" written in GSC for T6 to rip code from
 
 Recommended resources:
 https://www.nextgenupdate.com/forums/black-ops-2-gsc-mods-scripts/763318-gsc-managed-code-list.html
